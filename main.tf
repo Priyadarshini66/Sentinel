@@ -4,7 +4,7 @@ name               = "test-lb-tf"
   load_balancer_type = "application"
  
 
-  enable_deletion_protection = true
+  enable_deletion_protection = false
 
   
  
